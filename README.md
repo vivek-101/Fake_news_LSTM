@@ -5,7 +5,7 @@ This Notebook highly focuses towards handelling textual data and create classifi
 
 The Libraries used in this are as follows:
 
-[Keras logo](/images/keras.jpeg)<br>
-[Pandas](/images/pandas.jpeg)<br>
-[Scikit-learn](/images/sklearn.jpeg)<br>
-[nltk](/images/nltk.jpeg)
+![Keras logo](https://hackernoon.com/hn-images/1*LBjjmGofNJ_6vetddYAvIQ.jpeg)<br>
+![Pandas](https://pythonawesome.com/content/images/2018/05/pandas-logo.png)<br>
+![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)<br>
+![nltk](https://faradars.org/wp-content/uploads/2018/04/FVPHT9701-svg.svg)
